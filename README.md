@@ -1,0 +1,1 @@
+# aws-image-resizing-ondemand
